@@ -70,7 +70,7 @@ def get_download_link():
                 "status": "success",
                 "title": title,
                 "duration": duration,
-                "download_url": f"https://responsible-elonore-rideraaa-67fe5084.koyeb.app/p/?id={short_id}",
+                "download_url": f"then-jocelin-anshapiyt-459a1299.koyeb.app/p/?id={short_id}",
                 "powered_by": "t.me/anshapi"
             })
     except Exception as e:
