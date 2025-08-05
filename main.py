@@ -72,7 +72,7 @@ def get_download_link():
                 "status": "success",
                 "title": title,
                 "duration": duration,
-                "download_url": f"anshapi.orender.com/p/?id={short_id}",
+                "download_url": f"https://anshapi.onrender.com/p/?id={short_id}",
                 "powered_by": "t.me/anshapi"
             })
     except Exception as e:
